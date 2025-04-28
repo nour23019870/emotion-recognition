@@ -2,7 +2,7 @@
 
 A real-time facial emotion recognition system powered by CNN, OpenCV, and GPU acceleration. The application detects faces in video streams and classifies emotions into seven categories: angry, disgust, fear, happy, neutral, sad, and surprise.
 
-![Emotion Detection Demo](https://via.placeholder.com/800x400.png?text=Emotion+Detection+Demo)
+![Emotion Detection Demo](img/img.jpg)
 
 ## Features
 
